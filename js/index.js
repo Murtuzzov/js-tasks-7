@@ -37,3 +37,13 @@
 //     console.log(numbers[i]);
 //   }
 // }
+
+
+//TASK 8
+// const numbersArr = [2, 4, 6, 8, 10];
+// let sum = 0;
+// for (let i = 0; i < numbersArr.length; i += 1) {
+//   square = Math.pow(numbersArr[i], 2); //
+//   sum += square;
+// }
+// console.log(sum);
