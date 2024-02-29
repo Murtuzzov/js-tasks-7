@@ -18,14 +18,16 @@
 // console.log(sum);
 
 //TASK 3
-// const numberArr = [1, 5, 4, 8, 9];
+// const numbersArr = [2, 4, 6, 8, 10];
 // let sum = 0;
+// let average = 0;
 
-// for (let i = 0; i < numberArr.length; i += 1) {
-//   sum += numberArr[i];
+// for (let i = 0; i < numbersArr.length; i += 1) {
+//   sum += numbersArr[i];
+//   average = sum / numbersArr.length;
 // }
-// const result = sum / numberArr.length;
-// console.log(result);
+// console.log(average);
+
 
 //TASK 6
 // const numbers = [8, 7, 6, 5, 4, 3, 2, 1];
